@@ -4,7 +4,7 @@
 
 - Please stay on teams for the duration of the test. 
 - You have 3 hours to complete the test
-- You can access the [Unity Reference](https://docs.oracle.com/javase/7/docs/api/) and the [Unity reference](https://git-scm.com/docs) if you need to look something up
+- You can access the [Unity Reference](https://docs.oracle.com/javase/7/docs/api/) and the [Git reference](https://git-scm.com/docs) if you need to look something up
 - No use of notes or previously written code
 - No collaboration or communication
 
